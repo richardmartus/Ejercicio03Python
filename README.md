@@ -1,6 +1,6 @@
 # Ejercicio03-T1A1
 ## Etapa 01. Descripción del problema
-Se requiere un programa en Java para determinar cuál es el número más pequeño, cuál es el número más grande y cuál es el número intermedio de los tres ingresados.
+Se requiere un programa para determinar cuál es el número más pequeño, cuál es el número más grande y cuál es el número intermedio de los tres ingresados.
 ## Etapa 02. Definición de la solución
 ~~~ Entrada
   float cantidad
