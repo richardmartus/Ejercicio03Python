@@ -26,6 +26,8 @@ Se requiere un programa para determinar cuál es el número más pequeño, cuál
   
    ~~~
 ## Etapa 03. Diseño la solución
+![Diagrama](https://github.com/richardmartus/Ejercicio03Python/blob/main/.idea/Diagrama%20de%20Clases3.png)
 ## Etapa 04. Desarrollo de la solución
+Código disponible en el archivo [main](main.py)
 ## Etapa 05. Depuración y Pruebas
-## Etapa 06. Documentación
+
