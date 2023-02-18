@@ -30,4 +30,7 @@ Se requiere un programa para determinar cuál es el número más pequeño, cuál
 ## Etapa 04. Desarrollo de la solución
 Código disponible en el archivo [main](main.py)
 ## Etapa 05. Depuración y Pruebas
+![Diagrama](https://github.com/richardmartus/Ejercicio03Python/blob/main/.idea/prueba1Ej03.png)
+![Diagrama](https://github.com/richardmartus/Ejercicio03Python/blob/main/.idea/prueba2Ej03.png)
+https://github.com/richardmartus/Ejercicio03Python/blob/main/.idea/prueba1Ej03.png
 
