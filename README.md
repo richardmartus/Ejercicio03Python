@@ -2,7 +2,7 @@
 ## Etapa 01. Descripción del problema
 Se requiere un programa para determinar cuál es el número más pequeño, cuál es el número más grande y cuál es el número intermedio de los tres ingresados.
 ## Etapa 02. Definición de la solución
-~~~ Entrada
+ Entrada
   float val
   bool swapped 
   list my_list
@@ -15,7 +15,7 @@ Se requiere un programa para determinar cuál es el número más pequeño, cuál
   De esta manera se obtiene una lista ordenada (se muestran las posiciones de la lista)
  
 - Salida
-  
+~~~  
   +---------------+----------------+---------------+----------------+
   | Primer Número | Segundo Número | Tercer Número | Ordenamiento |
   +---------------+----------------+---------------+----------------+
