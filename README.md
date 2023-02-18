@@ -32,5 +32,5 @@ Código disponible en el archivo [main](main.py)
 ## Etapa 05. Depuración y Pruebas
 ![Diagrama](https://github.com/richardmartus/Ejercicio03Python/blob/main/.idea/prueba1Ej03.png)
 ![Diagrama](https://github.com/richardmartus/Ejercicio03Python/blob/main/.idea/prueba2Ej03.png)
-https://github.com/richardmartus/Ejercicio03Python/blob/main/.idea/prueba1Ej03.png
+
 
