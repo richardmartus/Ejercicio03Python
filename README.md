@@ -10,8 +10,11 @@ Se requiere un programa para determinar cuál es el número más pequeño, cuál
   
 - Proceso
   Solicitar al usuario que introduzca los tres números
+  
   Se comparan el primer y segundo elemento y se determina cuál es el mayor (se ordena)
+  
   Se comparan el segundo y el tercer elemento y se determina cuál es el mayor (se ordena)
+  
   De esta manera se obtiene una lista ordenada (se muestran las posiciones de la lista)
  
 - Salida
